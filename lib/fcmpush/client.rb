@@ -153,6 +153,7 @@ module Fcmpush
 
         response
       rescue Exception => e
+        puts e
         response
       end
 
