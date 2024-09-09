@@ -15,3 +15,5 @@
 Gemfile.lock
 /**/*test_credentials.json
 
+/.idea/
+
